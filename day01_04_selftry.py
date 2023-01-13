@@ -1,0 +1,6 @@
+name = input("이름 입력하세요 : ")
+age = input("나이를 입력하세요: ")
+school = ('Inha university')
+print(f'{name}님 안녕하세요!,{name}님은 {school}에서 공부하고 있으며,{age}살입니다.')
+print('Loading...')
+print('프로그레임이 종료 됩니다. 감사합니다.')
